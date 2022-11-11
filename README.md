@@ -1,7 +1,7 @@
 <a href="https://projeto-crud-cmac.vercel.app/">Crud</a>
 
 
-## 💻 Projeto Template Admin
+## 💻 Projeto Crud
 
 <h3>Crud</h3>
 
